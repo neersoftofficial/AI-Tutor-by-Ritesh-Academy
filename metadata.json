@@ -1,0 +1,5 @@
+{
+  "name": "ritesh academy AI Tutor",
+  "description": "An interactive AI tutor from riteshacademy to help you learn about Power BI, SQL, Python, ML, and Advanced Excel. Upload data files for contextual help and analysis.",
+  "requestFramePermissions": []
+}
